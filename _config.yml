@@ -1,0 +1,21 @@
+title:             redgura github io page
+email:             redgura@gmail.com
+description:       redgura github io page
+author:            redgura
+baseurl:           "/"
+url:               "http://blackrockdigital.github.io"
+
+
+# Social Profiles
+twitter_username:  redgura
+github_username:   redgura
+facebook_username: red.yasa2
+
+# Build settings
+markdown:          kramdown
+paginate:          5
+paginate_path:     "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+theme: jekyll-theme-clean-blog
