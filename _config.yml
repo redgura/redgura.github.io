@@ -1,15 +1,15 @@
-title:             redgura github io page
+title:             redgura
 email:             redgura@gmail.com
-description:       redgura github io page
+description:       새빨간거짓말
 author:            redgura
 baseurl:           "/"
-url:               "http://blackrockdigital.github.io"
+url:               "http://redgura.github.io"
 
 
 # Social Profiles
 twitter_username:  redgura
 github_username:   redgura
-facebook_username: red.yasa2
+facebook_username: 
 
 # Build settings
 markdown:          kramdown
